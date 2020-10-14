@@ -14,7 +14,7 @@ while(i!=0)
 i--;
 h*=f;
 }
-printf("----------------\nChislo v stepeni= %d\n",h);
+printf("\nChislo v stepeni= %d\n",h);
 }
 
 
