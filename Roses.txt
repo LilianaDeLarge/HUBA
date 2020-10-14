@@ -1,6 +1,6 @@
-roses are red
+roses are #ff0000
 
-violets are blue
+violets are #0000ff
 
 all my base
 
