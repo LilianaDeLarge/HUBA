@@ -1,7 +1,7 @@
-roses are #ff0000
+Roses are red,
 
-violets are #0000ff
+Violets are blue,
 
-all my base
+All of my base
 
-are belong to you
+Are belong to you.
