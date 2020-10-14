@@ -4,7 +4,7 @@
 
 main()
 {
-int i,f,h=1;
+int i,f,n=1;
 printf("Vvedite chiclo: ");
 scanf("%d",&f);
 printf("Vvedite stepen: ");
@@ -12,9 +12,9 @@ scanf("%d",&i);
 while(i!=0)
 {
 i--;
-h*=f;
+n*=f;
 }
-printf("\nChislo v stepeni= %d\n",h);
+printf("\nChislo v stepeni= %d\n",n);
 }
 
 
